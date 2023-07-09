@@ -21,3 +21,6 @@ En el código generado, se muestra cómo utilizar la función confusion_matrix p
 
 5. Predicción con una Imagen Individual
 Finalmente, se proporciona un código para realizar una predicción utilizando una imagen individual. El usuario debe colocar una imagen en la ruta indicada en su  PC, y el modelo cargado se utiliza para predecir la clase de la imagen. Se muestra la clase real y la clase predicha, y también se muestra la imagen en sí para una mejor comprensión visual.
+
+Conclusion
+El uso de redes neuronales convolucionales con tensorflow son muy flexibles y eficientes para el procesamiento de datos visuales, su capacidad de aprendizaje, robustez, hacen que las CNNs sean muy buenas para ser utilizadas en una variedad de aplicaciones parael reconocimiento de patrones, vision de computadora
